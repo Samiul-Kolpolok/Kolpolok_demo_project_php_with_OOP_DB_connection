@@ -1,0 +1,21 @@
+@import url('https://fonts.cdnfonts.com/css/poppins');
+
+.paragraph{
+    color: red;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;                                               
+}
+
+.text-justify
+{
+    text-align: justify;
+}
+
+.font-cntrl{
+    font-size:small;
+}
